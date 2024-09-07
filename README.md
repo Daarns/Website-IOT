@@ -13,3 +13,5 @@ This website is used to monitor data from temperature, distance and humidity sen
 -USB to USB cable
 
 ## Installation
+git clone https://github.com/Daarns/Website-IOT.git
+cd Website-IOT
