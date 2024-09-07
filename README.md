@@ -8,6 +8,6 @@ This website is used to monitor data from temperature, distance and humidity sen
 - MySQL or any database that supported.
 
 ## Installation
-Clone the Repository :
+Clone the Repository : </br>
 git clone https://github.com/Daarns/Website-IOT.git </br>
 cd Website-IOT.
