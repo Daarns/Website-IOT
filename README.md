@@ -10,4 +10,8 @@ This website is used to monitor data from temperature, distance and humidity sen
 ## Installation
 Clone the Repository : </br>
 git clone https://github.com/Daarns/Website-IOT.git </br>
-cd Website-IOT.
+cd Website-IOT. </br>
+Move folder file to your htdocs.
+
+## Running The Application
+Open ur browser and write http://localhost/Website-IOT (Or ur folder name)
