@@ -191,10 +191,5 @@ iot-vokasiub/
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-- **Developer**: Sistem IoT Vokasi Team
-- **Year**: 2023
-- **Purpose**: Educational/Vocational Training
-
 ---
 **Note**: Pastikan semua dependencies dan libraries terinstall dengan benar sebelum menjalankan sistem.
